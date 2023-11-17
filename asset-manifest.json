@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/food/static/css/main.dd3fa38a.css",
+    "main.js": "/food/static/js/main.bb61d210.js",
+    "static/media/axios.cjs": "/food/static/media/axios.f73c6a014bbc8a882637.cjs",
+    "index.html": "/food/index.html",
+    "main.dd3fa38a.css.map": "/food/static/css/main.dd3fa38a.css.map",
+    "main.bb61d210.js.map": "/food/static/js/main.bb61d210.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd3fa38a.css",
+    "static/js/main.bb61d210.js"
+  ]
+}

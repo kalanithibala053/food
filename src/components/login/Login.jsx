@@ -101,13 +101,7 @@ class Login extends React.Component {
               <Link to={"/register"} className="link">
                 Don't have an account? Sign Up
               </Link>
-              <Box mt={5}>
-                <Typography variant="body2" color="textSecondary" align="center">
-                  {'Copyright © NEUEat '}
-                  {new Date().getFullYear()}
-                  {'.'}
-                </Typography>
-              </Box>
+              
             </form>
           </div>
         </Grid>

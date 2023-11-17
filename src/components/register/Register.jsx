@@ -192,13 +192,7 @@ class Register extends React.Component {
               <Link to={"/login"} className="link">
                 Already have an account? Sign In
               </Link>
-              <Box mt={5}>
-                <Typography variant="body2" color="textSecondary" align="center">
-                  {'Copyright © NEUEat '}
-                  {new Date().getFullYear()}
-                  {'.'}
-                </Typography>
-              </Box>
+             
             </form>
           </div>
         </Grid>
